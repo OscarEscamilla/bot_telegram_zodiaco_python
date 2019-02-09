@@ -18,5 +18,5 @@ myqsl>source bot_demo.sql
 
 1. Invitar como contacto en Telegram al bot.
 2. Iniciar conversación con el.
-3. Usar el comando /info id_producto ejem. /info 2
-4. Si el id_producto coincide con el de un producto existente en la base de datos, el bot concatena el producto, precio y existencias.
+3. Usar el comando /info
+4. Usar el comando /zodiaco
