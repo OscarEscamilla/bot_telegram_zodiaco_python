@@ -1,0 +1,7 @@
+MySQL-python==1.2.5
+web.py==0.38
+python-telegram-bot==5.3.0
+emoji==0.5.1
+
+
+
